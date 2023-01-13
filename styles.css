@@ -474,17 +474,20 @@ hr {
     }
 
     .cover-text {
-        padding: 15px;
+        padding: 45px;
     }
 
     .cover-text h1 {
         color: #fff;
         font-size: 1.8rem;
+        text-shadow: 0 0 5px #353535;
     }
 
     .cover-text p {
         color: #fff;
         font-size: 0.9rem;
+        text-align: center;
+        text-shadow: 0 0 5px #353535;
     }
 
     /* MAIN BODY SECTION  */
